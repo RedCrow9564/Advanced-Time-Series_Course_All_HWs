@@ -7,7 +7,7 @@ HW descriptions:
 
 * [Ex1-Qualification](Ex1-Qualification.ipynb) - A task made for veryfing the student's skills in Python, Pandas, Pytorch and Pytorch-Lightning.
 * [Ex2-MQRNN, paper review](HW2-MQ_RNN-paper_review.pdf) - A review of the paper [[1]](#1).
-* [Ex3-MQRNN Implementation](EX3-MQRNN.ipynb) - A Pytorch-lightning implementation of the paper [[1]](#1).
+* [Ex3-MQRNN Implementation](Ex3-MQRNN.ipynb) - A Pytorch-lightning implementation of the paper [[1]](#1).
 * [Ex4-ROCKET, paper review](HW4-ROCKET-paper_review.pdf) - A review of the paper [[2]](#2).
 * [Ex5-ROCKET Implementation](Ex5-ROCKET.ipynb) - A Python implementation of the paper [[2]](#2).
 
