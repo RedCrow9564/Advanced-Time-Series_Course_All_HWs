@@ -1,5 +1,5 @@
 # Advanced Time-Series Course - All HW Tasks
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RedCrow9564/Advanced-Time-Series_Course_All_HWs/blob/master/Ex5-ROCKET.ipynb) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)![GitHub last commit](https://img.shields.io/github/last-commit/RedCrow9564/https://github.com/RedCrow9564/Advanced-Time-Series_Course_All_HWs)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RedCrow9564/Advanced-Time-Series_Course_All_HWs/blob/master/Ex5-ROCKET.ipynb) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)![GitHub last commit](https://img.shields.io/github/last-commit/RedCrow9564/Advanced-Time-Series_Course_All_HWs)
 
 Here are all HW submissions of mine, made during the "Advanced Time-Series Course" Of Y-DATA, Yandex between February 2021 to April 2021.
 
